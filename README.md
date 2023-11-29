@@ -1,2 +1,2 @@
 # Responsive-UI-UX-Floating-Action-Button
-A Floating Action Button (FAB) component designed for effortless access to key actions in your app. Positioned at the bottom right corner, this FAB provides a smooth, intuitive interface for essential functions, enhancing user experience and accessibility. #UI #UX
+A Floating Action Button that is seamlessly expandable, strategically placed at the bottom right, it simplifies access to multiple actions within a sleek, user-friendly interface. #UI #UX 
